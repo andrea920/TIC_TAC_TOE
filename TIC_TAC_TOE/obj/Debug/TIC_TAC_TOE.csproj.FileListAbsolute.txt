@@ -1,0 +1,10 @@
+C:\Users\Marina de Robles\source\repos\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\TIC_TAC_TOE.exe.config
+C:\Users\Marina de Robles\source\repos\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\TIC_TAC_TOE.exe
+C:\Users\Marina de Robles\source\repos\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\TIC_TAC_TOE.pdb
+C:\Users\Marina de Robles\source\repos\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.csproj.AssemblyReference.cache
+C:\Users\Marina de Robles\source\repos\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.Form1.resources
+C:\Users\Marina de Robles\source\repos\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.Properties.Resources.resources
+C:\Users\Marina de Robles\source\repos\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.csproj.GenerateResource.cache
+C:\Users\Marina de Robles\source\repos\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.csproj.CoreCompileInputs.cache
+C:\Users\Marina de Robles\source\repos\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.exe
+C:\Users\Marina de Robles\source\repos\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\TIC_TAC_TOE.pdb
